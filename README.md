@@ -1,14 +1,46 @@
-# 🚀 Hi, I’m a Software Engineer | Blockchain Developer
-I built my own blockchain from scratch, built my own cryptocurrency, (and stole many ideas from Ethereum) to make sure I understand the first principles behind the thing. - Fluent in English, Native in Solidity.
+# 🚀 Hi, I’m a Software Development Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
--------------------------------
-### Blockchain Stack (Ethereum smart contracts using Solidity, Web3.js, Truffle, Hardhat..):
-<img src="https://cdn2.iconfinder.com/data/icons/leto-cryptocurrency/64/__blockchain_link_block-2-512.png" width='61' title='Blockchain' />      <img src="https://cdn1.iconfinder.com/data/icons/social-icons-33/512/bitcoin-512.png" width='60' title='Bitcoin'  />      <img src="https://cdn2.iconfinder.com/data/icons/cryptocurrency-5/100/cryptocurrency_blockchain_crypto-02-512.png" width='60' title='Ethereum'   />      <img src="https://res.cloudinary.com/divzjiip8/image/upload/q_auto/v1609632845/logos/intro_solidity.png" width='60' title='Solidity'   />      <img src="https://www.hyperledger.org/wp-content/uploads/2020/02/HL_ImageLibrary_Icons_Green_hyperledger.png" width='60' title='Hyperledger'   />      <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png?w=400" width='60' title='Web3.js'   />
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
---------
-### Web Development MERN (MongoDB, Express, React, Node):
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'   />      <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width='60'  title='TypeScript'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width='60'  title='React.JS'   />      <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" width='60' title='Next.JS'   />      <img src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" width='60'  title='Redux'  />      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width='70'  title='Node.js'  />      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width='70'  title='Python'  />      <img src="https://uploads.getpop.org/wp-content/uploads/2019/07/graphql.png" width='60' title='GraphQL'   />      <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" width='60' title='MongoDB'   />      <img src="https://hight.io/_nuxt/img/tailwind.3558838.png" width='60'  title='Tailwind Css'  />      <img src="https://img.icons8.com/color/50/000000/material-ui.png" width='60'  title='Material UI'  />   
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+- 🏦 I'm a Software Development Engineer working for a Multi National Company in Pakistan. 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily **.Python**, **.py**, **.js**, **.sql**
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 👯 We can connect to play Badminton.
+- ⚡ Fun fact: Badminton keeps you away from sadness.
 
+<p align="center"> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.w3schools.com/aws/images/awscert.png" alt="Nodejs" width="55" height="55"/>
+</p>
+
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20vw" /> AWS Certifications
+
+<p align="center"> 
+      <img src="https://www.w3schools.com/aws/images/awscert.png" alt="AWS-CFL" width="155" height="155"/>
+      <img src="https://thinkcloudly.com/wp-content/uploads/2021/08/AWS-SolArchitect-Associate-2020.png" alt="AWS-SAA" width="155" height="155"/> 
+</p>
+
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>China has the highest number of internet users in the whole world with over 746 million active users.</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 ---
 
