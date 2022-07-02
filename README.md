@@ -1,8 +1,8 @@
-# 🚀 Hi, I’m a Software Development Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# 🚀 Hi, I’m a Software Development Engineer
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+###  About Me:
 - 🏦 I'm a Software Development Engineer working for a Multi National Company in Pakistan. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.Python**, **.py**, **.js**, **.sql**
@@ -22,7 +22,7 @@
 </p>
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20vw" /> AWS Certifications
+###  AWS Certifications
 
 <p align="center"> 
       <img src="https://www.w3schools.com/aws/images/awscert.png" alt="AWS-CFL" width="155" height="155"/>
@@ -30,7 +30,7 @@
 </p>
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+###  A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>China has the highest number of internet users in the whole world with over 746 million active users.</i>
@@ -39,7 +39,7 @@
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+###  Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 ---
