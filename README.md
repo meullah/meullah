@@ -3,10 +3,10 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ###  About Me:
-- 🏦 I'm a Software Development Engineer working for a Multi National Company in Pakistan. 
+- 🏦 I'm a Data Engineer working for a Multi-National Company in Pakistan. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.Python**, **.py**, **.js**, **.sql**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play Badminton.
 - ⚡ Fun fact: Badminton keeps you away from sadness.
 
