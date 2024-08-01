@@ -27,6 +27,7 @@
 <p align="center"> 
       <img src="https://www.w3schools.com/aws/images/awscert.png" alt="AWS-CFL" width="155" height="155"/>
       <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="AWS-SAA" width="155" height="155"/> 
+      <img src="https://www.databricks.com/en-website-assets/static/531affffa2d178e994293dbbfabc1289/27289.png" alt="AWS-SAA" width="155" height="155"/> 
 </p>
 
 
