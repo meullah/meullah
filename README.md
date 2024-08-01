@@ -22,11 +22,11 @@
 </p>
 
 
-###  AWS Certifications
+###  Certifications
 
 <p align="center"> 
       <img src="https://www.w3schools.com/aws/images/awscert.png" alt="AWS-CFL" width="155" height="155"/>
-      <img src="https://thinkcloudly.com/wp-content/uploads/2021/08/AWS-SolArchitect-Associate-2020.png" alt="AWS-SAA" width="155" height="155"/> 
+      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="AWS-SAA" width="155" height="155"/> 
 </p>
 
 
